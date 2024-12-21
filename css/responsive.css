@@ -1,0 +1,84 @@
+@media screen and (max-width:1199px){
+    .container{
+        width:100%;
+    }
+   body{
+    margin: 0 0px;
+    padding: 0 2px;
+   }
+   .forms{
+    display: flex;
+    justify-content: space-between;
+   }
+   .form-right{
+ margin-right: 20px;
+   }
+   .form-left{
+    margin-left: 20px;
+   }
+   .arrow-r{
+    margin-right: 40px;
+   }
+   .contentinblack{
+    font-size: 23px;
+    margin-top: 80px;
+    width:700px;
+    margin-left: 145px;
+   }
+   .gem{
+    margin-left: -100px;
+   }
+   .kamer{
+    position: absolute;
+    right:310px;
+    top:40px;
+   }
+   .ing{
+    position: absolute;
+    right:190px;
+   }
+   .true{
+    position: absolute;
+    right:60px;
+   }
+   .onze{
+    margin-left: -50px;
+   }
+   .para6{
+    margin-left: -160px;
+    margin-top: -10px;
+   }
+   .head2{
+    margin: 20px 0 0 30px;
+   }
+   .para1{
+    margin: 8px 30px;
+   }
+   .bread{
+    position: absolute;
+    left:240px;
+    top:26px;
+   }
+   .lid{
+    position: absolute;
+    left:310px;
+    top:28px;
+   }
+   .top-three-right{
+    padding-right: 10px;
+   }
+   .logo{
+    padding-left: 10px;
+   }
+   .all-logos img{
+    margin: 11px 62px;
+    padding: 10px 32px;
+    width:100px;
+   }
+   .circles{
+    display: inline-block;
+    transform: translate(550px,80px);
+    margin-left: 10px;
+}
+}
+
